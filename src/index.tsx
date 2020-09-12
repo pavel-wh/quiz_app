@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-// Load PT Sans typeface
-import 'typeface-pt-sans';
+// Load typefaces
+import 'typeface-roboto';
+import 'fontsource-fascinate-inline';
 
 ReactDOM.render(
   <React.StrictMode>
